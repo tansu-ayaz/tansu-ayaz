@@ -9,6 +9,7 @@ Skills:
 Data Analysis: 
 -**SQL**: Joins, Union, Case
 -**Python**: Pandas, Numpy, Scipy, Pandas, Matplotlib
+-**R** Programming
 -**Excel**: Pivot Tables, V-lookup, IF function, Plotting 
 Data Visualization/Presentation:
 -**Tableau**
